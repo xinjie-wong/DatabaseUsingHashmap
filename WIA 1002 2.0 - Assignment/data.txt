@@ -1,8 +1,0 @@
-size;string;uk5,uk6,uk7
-luckyNum;number;7
-myAge;number;21
-myGender;character;f
-amount;number;30,40,50
-symbol;character;?
-myname;string;jenny
-tshirtSize;character;s,m,l
